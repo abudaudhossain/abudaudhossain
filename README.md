@@ -30,7 +30,8 @@
 
 <img width="550" alt="Abu Daud Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abudaudhossain&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abudaudhossain&card_width=550)](https://github.com/abudaudhossain/abudaudhossain)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abudaudhossain&card_width=550&langs_count=8)](https://github.com/abudaudhossain/abudaudhossain)
+
 
 [website]: https://github.com/abudaudhossain
 [instagram]:https://github.com/abudaudhossain/
