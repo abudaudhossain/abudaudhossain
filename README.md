@@ -28,9 +28,11 @@
 <br />
 <br />
 
-<img width="550" alt="Abu Daud Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abudaudhossain&show_icons=true"/>
+<img width="550" alt="Abu Daud Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abudaudhossain&show_icons=true&theme=shades-of-purple"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abudaudhossain&card_width=550&langs_count=8)](https://github.com/abudaudhossain/abudaudhossain)
+
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abudaudhossain&card_width=550&langs_count=8&theme=shades-of-purple)](https://github.com/abudaudhossain/abudaudhossain)
 
 
 [website]: https://github.com/abudaudhossain
