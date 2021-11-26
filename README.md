@@ -1,4 +1,16 @@
-### Hi there, I'm Abu Daud Hossain Sumon -  [Abu Daud Hossain](https://github.com/abudaudhossain) 👋
+### Hi there, I'm Abu Daud Hossain Sumon -  [Abu Daud Hossain](https://github.com/abudaudhossain) 👋Hi,
+I am studying for a Diploma in Computer Engineering. So, I have gained basic knowledge from my study. Also, I have gathered vast knowledge about coding, designing, markup languages, and other things that are related to this sector. 
+
+My core skill is based on JavaScript and I like to do most of the things using JavaScript. I develop the frontend part of the website, especially using React javascript. I have already developed 9 projects with JavaScript and React.js.
+
+I never give up and constantly learn new skills and gather more knowledge and try to be a better version of myself.
+
+I want to be a Professional Full Stack Developer, it's my dream.
+I love to learn new tech and new languages
+
+ Contact me:
+📧 abudaudhossainsumon@gmail.com or
+📞 𝑪𝒂𝒍𝒍 | 𝒎𝒐𝒃𝒊𝒍𝒆 : +880 1994589676
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🚀 I’m currently learning everything 🤣
