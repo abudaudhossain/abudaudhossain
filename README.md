@@ -14,7 +14,7 @@ I love to learn new tech and new languages
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🚀 I’m currently learning everything 🤣
-- 🥅 2022 Goals: MERN
+- 🥅 2023 Goals: MERN
 - ⚡ Fun fact: I love coding in my leisure time
 
 ### Connect with me:
